@@ -1,0 +1,11 @@
+# Python
+.py[cod]
+__pycache__
+pyrightconfig.json
+
+# Virtualenv
+.venv
+
+# Notebooks
+*.ipynb
+.ipynb_checkpoints
